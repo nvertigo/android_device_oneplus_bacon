@@ -23,3 +23,7 @@ ro.gps.agps_provider=1
 
 # cabl is handled by the panel
 ro.qualcomm.cabl=0
+
+# call recording
+persist.call_recording.enabled=true
+persist.call_recording.src=4
