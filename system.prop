@@ -71,3 +71,7 @@ persist.timed.enable=true
 
 # Wifi
 wifi.interface=wlan0
+
+# call recording
+persist.call_recording.enabled=true
+persist.call_recording.src=4
