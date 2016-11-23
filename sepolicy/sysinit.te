@@ -1,1 +1,2 @@
 allow sysinit system_data_file:file { getattr read open };
+allow sysinit system_prop:property_service set;
